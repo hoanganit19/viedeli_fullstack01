@@ -1,0 +1,18 @@
+@import 'parts/variable';
+@import 'parts/reset';
+@import 'parts/fonts';
+@import 'parts/base';
+@import 'parts/mixin';
+
+//Import Components
+@import 'components/header';
+@import 'components/footer';
+
+//Import page
+@import 'home/banner';
+@import 'home/whyus';
+@import 'home/products';
+@import 'home/location';
+@import 'home/news';
+@import 'home/partners';
+@import 'home/contact';
